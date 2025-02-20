@@ -1,8 +1,8 @@
-# Brute-fb
-![Brute-fb preview](Brute-fb.jpg)
+# Brute-fb2.0
+![Brute-fb2.0 preview](Brute-fb2.0.jpg)
 
 ## introduction
-Bruteforce attack on facebook account using python script code by Mr.X
+Bruteforce attack on facebook account using python script code by Alaminvaihero 
 
 ## Instalations
 ```
@@ -10,11 +10,11 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install python3
 $ pkg install git
-$ git clone https://github.com/Whomrx666/Brute-fb
-$ cd Brute-fb
+$ git clone https://github.com/Alaminvaihero /Brute-fb2.0
+$ cd Brute-fb2.0
 $ python -m pip install request bs4
 $ python -m pip install mechanize
-$ python Brute-fb.py
+$ python Brute-fb2.0.py
 ```
 ## Instructions
 - **First**: Install tools according to the instructions above
@@ -29,24 +29,17 @@ $ python Brute-fb.py
 ## Observation
 Bruteforce attack, For educational purpose only
 ### Original Author
-<a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
+<a href="https://github.com/Alaminvaihero ><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## CONNECT WITH ME :
-
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com/)
-[![Instagram](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![Instagram](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://youtube.com/@whomrxhackers)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://facebook.com/https://www.facebook.com/whomrx.666)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Instagram](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
-[![Instagram](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
+https://www.facebook.com/MD.ALAMIN.HACKER.FROM.BAKHUNDA.WHITE.HEAD.HACKER
 
 **If you want to donate, click on the button**
-<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Brute fb-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://saweria.co/Alaminvaihero "><img title="Donate" src="https://img.shields.io/badge/Donate-Brute fb-yellow?style=for-the-badge&logo=github"></a>
 
 ### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/Whomrx666/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Alaminvaihero /count.svg)
 
 <h3>Good luck for doing bruteforce</h3> 
